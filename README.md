@@ -1,7 +1,7 @@
 # machine_learning_clustering_problem
 Solve a clustering problem in python
 
-1. Description of the problem:
+1. Description of the problem
 The context is that of employment. The objective is to determine the job of a candidate from information on his skills.
 
 2. Tasks to be carried out:
@@ -11,7 +11,7 @@ The context is that of employment. The objective is to determine the job of a ca
 
 3. Description of the files
 
-   • Clustering_ML.ipynb: A Jupyter notebook which contains the questions as well as the answers to this problem!
+   • Clustering_ML.ipynb: A Jupyter notebook which contains the questions and my answers to this problem!
 
    • Data.csv: This file contains a dataset of ~ 10,000 lines describing the profile of the candidates.
                This table is made up of 6 columns:
@@ -24,3 +24,15 @@ The context is that of employment. The objective is to determine the job of a ca
       - City: corresponds to the workplace
 
    • Two standard CVs given as examples to answer the last question (in the jupyter notebook file)
+   
+
+4. Environment
+
+      - Python 3 
+      
+      - Install the following libraries : 
+           pip3 install matplotlib
+           pip3 install pandas
+           pip3 install numpy
+           pip3 install seaborn
+           pip3 install -U scikit-learn
